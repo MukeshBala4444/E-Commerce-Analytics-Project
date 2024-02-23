@@ -1,0 +1,53 @@
+# E-Commerce Power BI Dashboard
+
+## Overview
+
+This Power BI dashboard provides insights and analysis for an e-commerce dataset. It visualizes key metrics and trends to help businesses make data-driven decisions.
+
+## Exploratory Data Analysis (EDA) for understanding the dataset.
+- Customer segmentation based on purchasing behavior.
+- Product performance analysis.
+- Sales trends and forecasting.
+- Customer churn prediction.
+- Visualizations for intuitive interpretation.
+
+## Features
+
+- Interactive dashboards with multiple visualizations.
+- Filters and slicers for customization.
+- Drill-through functionality for detailed analysis.
+- Data cleaning and transformation steps.
+
+## Data Source
+
+The dataset used in this project can be found [(https://www.kaggle.com/datasets/carrie1/ecommerce-data)].
+
+## Dashboard Screenshots
+
+(https://drive.google.com/file/d/1BF3ZSPQ1i6XZBYQpTSYEjlXKvgJnx4M0/view?usp=sharing)
+
+
+
+## Getting Started
+
+Follow these steps to get started with the Power BI dashboard:
+
+1. Clone or download the repository.
+
+2. Open the Power BI (.pbix) file using [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/).
+
+3. Review the data cleaning and transformation steps in the Power Query Editor.
+
+4. Customize the visuals, filters, and slicers as needed for your analysis.
+
+5. Save the changes in Power BI Desktop.
+
+6. Publish the dashboard to [Power BI Service](https://powerbi.microsoft.com/en-us/power-bi-service/).
+
+7. Share the dashboard with your team or stakeholders.
+
+## Contributors
+
+- [Mukesh B]
+
+
